@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //这是使用develop2分支开发
-        //这是什么
+        //这是什么的机会
     }
 }
